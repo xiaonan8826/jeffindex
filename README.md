@@ -1,7 +1,7 @@
 # jeffindex
 
 ## jeff网页代码
-   该文件夹主要存放部署的网页，我用了阿里云服务器，用ngingx部署的静态页面，\n
+   该文件夹主要存放部署的网页，我用了阿里云服务器，用ngingx部署的静态页面，
    大家进行页面开发的时候主要从这里拉取代码，
    前端用的echart中的k线图模板：https://echarts.apache.org/examples/zh/editor.html?c=candlestick-sh-2015，
    本地开发的话我用的sublime text,里面可以启动一个本地服务器sublime server插件，在本地实时浏览页面debug,
